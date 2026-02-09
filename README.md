@@ -1,36 +1,21 @@
-#Employee Directory – Django
+# Employee Directory – Django
 
-A simple Employee Directory web application built with Django, Bootstrap, and HTML.
-The application allows users to view and fetch employee details using Django models, views, and templates.
+A simple Employee Directory web application built using Django, Bootstrap, and HTML.  
+It allows users to view and fetch employee details using Django models and templates.
 
-🚀 Features
+## Features
+- List employees
+- View employee details
+- Django ORM
+- Bootstrap UI
+- SQLite database
 
-Display list of employees
+## Tech Stack
+- Django (Python)
+- HTML, Bootstrap
+- SQLite
 
-View employee details
-
-Django ORM integration
-
-Responsive UI using Bootstrap
-
-SQLite database
-
-🛠 Tech Stack
-
-Backend: Django (Python)
-
-Frontend: HTML, Bootstrap
-
-Database: SQLite
-
-📂 Project Structure
-employee/
-templates/
-static/
-mysite/
-manage.py
-
-⚙️ How to Run
+## Run the Project
 git clone https://github.com/Srinijreddy09/Employee-Directory-Django-.git
 cd Employee-Directory-Django-
 python -m venv env
@@ -39,18 +24,7 @@ pip install django
 python manage.py migrate
 python manage.py runserver
 
+Open: http://127.0.0.1:8000/
 
-Open in browser:
-👉 http://127.0.0.1:8000/
-
-🔮 Future Improvements
-
-Add Create / Update / Delete employees
-
-Search and filter functionality
-
-REST API using Django REST Framework
-
-👤 Author
-
+## Author
 Srinij Reddy Musku
