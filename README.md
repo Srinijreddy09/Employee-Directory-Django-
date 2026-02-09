@@ -1,4 +1,4 @@
-Employee Directory – Django
+#Employee Directory – Django
 
 A simple Employee Directory web application built with Django, Bootstrap, and HTML.
 The application allows users to view and fetch employee details using Django models, views, and templates.
